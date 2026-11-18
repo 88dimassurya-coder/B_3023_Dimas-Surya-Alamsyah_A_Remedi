@@ -1,0 +1,15 @@
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\bin\Debug\net10.0\3023 UTS PBO A.exe
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\bin\Debug\net10.0\3023 UTS PBO A.deps.json
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\bin\Debug\net10.0\3023 UTS PBO A.runtimeconfig.json
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\bin\Debug\net10.0\3023 UTS PBO A.dll
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\bin\Debug\net10.0\3023 UTS PBO A.pdb
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS PBO A.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS PBO A.AssemblyInfoInputs.cache
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS PBO A.AssemblyInfo.cs
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS PBO A.csproj.CoreCompileInputs.cache
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS PBO A.dll
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\refint\3023 UTS PBO A.dll
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS PBO A.pdb
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS PBO A.genruntimeconfig.cache
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\ref\3023 UTS PBO A.dll
+D:\visual code ungu\3023 UTS PBO A\3023 UTS PBO A\obj\Debug\net10.0\3023 UTS.B870E9D2.Up2Date
